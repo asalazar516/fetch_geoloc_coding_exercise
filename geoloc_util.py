@@ -3,7 +3,7 @@ import argparse
 from us_state_abbreviations import abbreviation_to_name  # Import the state abbreviation to name mapping
 
 
-API_KEY = 'f897a99d971b5eef57be6fafa0d83239' 
+API_KEY = ''  # Add Open Weather Geocoding API here
 
 # Update the input if the state is abbreviated
 def convert_state_abbreviation(location):

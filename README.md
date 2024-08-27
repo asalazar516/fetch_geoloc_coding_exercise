@@ -13,7 +13,14 @@ Additionally, the utility includes a feature to convert US state abbreviations t
 
 ## Setup
 
-This repo requires [python3](https://www.python.org/downloads/). This test was developed in python 3.12.2
+This repo requires [python3](https://www.python.org/downloads/) and pip. This test was developed in python 3.12.2
+
+1. Clone the repository: 
+ ```git clone git@github.com:asalazar516/fetch_geoloc_coding_exercise.git ```
+
+1. Set up your OpenWeather API key:
+    1. Obtain an API key from [OpenWeather](https://openweathermap.org/api).
+    1. Replace the placeholder in the script (geoloc_util.py) with your actual API key
 
 ### Install Requirements
 
